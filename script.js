@@ -2,7 +2,7 @@ let score = 0;
 
 // Update game name
 function updateGameName() {
-    const input = document.getElementById('gameName').value;
+    const input = document.getElementById(moto patluo').value;
     const title = document.getElementById('gameTitle');
     title.textContent = input || "Cartoon Selection Game";
 }
